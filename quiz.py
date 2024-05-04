@@ -8,3 +8,11 @@ while True:
   else:
     print(f"Incorrect, the capital of england is not {guess}!")
     print("Try again!")
+
+
+
+# answer = input("What is the capital of ENG?")
+#  while(answer!="London" or answer!="london"):
+#    print("Try again")
+#    answer=input("What is the capital of ENG?")
+# print("Well done!")
